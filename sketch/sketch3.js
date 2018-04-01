@@ -18,8 +18,8 @@ var	mouse = {
 	y : -1
 };
 
-canvas.width = 1024;
-canvas.height = 516;
+canvas.width = canvas.scrollWidth;
+canvas.height = canvas.scrollHeight;
 
 ctx.font = '48px serif';
 

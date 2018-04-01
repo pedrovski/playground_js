@@ -54,16 +54,15 @@
     grid-row: 12;
 }
 
-#sketch {/*
-    width: 1280px;
-    height: 800px;
-    */
+#sketch {
+    width: 949px;
+    height: 632px;
     margin: auto;
     display:block;
     object-fit: contain;
     border: 2px solid #7c89ce;
 }
-
+/*
 @media all and (orientation:portrait) {
     #sketch {
         width: 90vw;
@@ -76,3 +75,4 @@
         height: 90vh;
     }
 }
+*/
